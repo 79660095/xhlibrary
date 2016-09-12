@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Application theme. -->
+    <style name="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="AppCompatFullScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:background">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>

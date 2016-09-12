@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XHLibrary</string>
+    <string name="btn_history">History</string>
+    <string name="btn_picture">Picture</string>
+    <string name="btn_light">Light</string>
+    <string name="btn_ok">Ok</string>
+    <string name="qrcode">QR Code</string>
+    <string name="barcode">Barcode</string>
+</resources>
